@@ -4,6 +4,17 @@ Première version premium, immersive et mobile-first du site vitrine Khaan Burge
 
 ## Lancer le projet
 
+### Prévisualisation locale sans installation npm
+
+Si le registre npm est bloqué dans l’environnement de travail, une prévisualisation statique fidèle à la V1 est disponible sans dépendances :
+
+```bash
+npm run preview:static
+```
+
+Puis ouvrir `http://localhost:3000`. Cette page sert uniquement à visualiser rapidement le design lorsque `npm install` ne peut pas télécharger Next.js ; la version applicative reste dans `app/page.tsx`.
+
+
 ```bash
 npm install
 npm run dev
