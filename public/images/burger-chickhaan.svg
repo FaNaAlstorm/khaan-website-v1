@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-label="Chic’Khaan placeholder">
+  <!-- Placeholder vectoriel : remplacer par une vraie photo produit détourée en gardant le même nom de fichier. -->
+  <defs><filter id="s" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="26" stdDeviation="22" flood-color="#000" flood-opacity=".42"/></filter><linearGradient id="bun" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#fff" stop-opacity=".24"/><stop offset=".24" stop-color="#D2B27C"/><stop offset="1" stop-color="#8b4d16"/></linearGradient></defs>
+  <ellipse cx="260" cy="306" rx="178" ry="22" fill="#000" opacity=".25"/>
+  <g filter="url(#s)">
+    <path d="M98 145 C112 62 412 62 424 145 C387 166 141 166 98 145Z" fill="url(#bun)"/>
+    <path d="M110 147 C150 169 368 168 412 147 L398 190 C348 203 172 203 122 190Z" fill="#2b1408"/>
+    <path d="M123 184 C160 166 199 208 238 184 C279 159 331 210 397 181 L389 221 C320 245 205 246 130 221Z" fill="#F7B733"/>
+    <path d="M121 213 C165 236 357 237 401 213 L386 264 C323 292 201 292 137 264Z" fill="#7a2a0b"/>
+    <path d="M132 250 C178 275 342 275 386 250 C382 297 138 297 132 250Z" fill="url(#bun)"/>
+    <path d="M147 200 C178 222 192 181 225 203 C256 225 283 184 315 205 C345 226 360 190 389 207" fill="none" stroke="#72b13a" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="260" y="338" text-anchor="middle" font-family="Inter, Arial" font-size="20" font-weight="800" fill="#D2B27C" letter-spacing="5">CHIC’KHAAN</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 420" role="img" aria-label="Poké small placeholder">
+  <!-- Placeholder vectoriel : remplacer par une vraie photo de poké détourée en gardant le même nom de fichier. -->
+  <defs><filter id="s"><feDropShadow dx="0" dy="28" stdDeviation="24" flood-color="#022B3A" flood-opacity=".28"/></filter><radialGradient id="bowl" cx="50%" cy="10%"><stop stop-color="#1b5968"/><stop offset="1" stop-color="#071722"/></radialGradient></defs>
+  <ellipse cx="280" cy="350" rx="170" ry="28" fill="#022B3A" opacity=".22"/>
+  <g filter="url(#s)"><path d="M86 170 C95 338 465 338 474 170 C428 232 134 232 86 170Z" fill="url(#bowl)"/><ellipse cx="280" cy="170" rx="196" ry="78" fill="#101820"/><ellipse cx="280" cy="158" rx="176" ry="60" fill="#F8F3EA"/>
+  <circle cx="184" cy="151" r="45" fill="#ff7f51"/><circle cx="250" cy="140" r="42" fill="#2ec4b6"/><circle cx="324" cy="151" r="44" fill="#7ac943"/><circle cx="382" cy="146" r="35" fill="#ffd166"/><circle cx="275" cy="184" r="38" fill="#ffffff"/><circle cx="216" cy="197" r="28" fill="#ef476f"/><circle cx="342" cy="199" r="30" fill="#f77f00"/></g>
+  <text x="280" y="395" text-anchor="middle" font-family="Inter, Arial" font-size="18" font-weight="800" fill="#022B3A" letter-spacing="5">POKÉ SMALL</text>
+</svg>
